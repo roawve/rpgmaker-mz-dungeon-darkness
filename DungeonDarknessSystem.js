@@ -67,7 +67,7 @@
  * @help 
  * Dungeon Darkness System v1.1 by roawve
  * 
- * Creates a 'Fear & Hunger' style darkness effect with a soft light
+ * Creates darkness effect with a soft light
  * around the player. Everything is controllable via Plugin Parameters
  * for defaults and Plugin Commands during gameplay.
  * 
